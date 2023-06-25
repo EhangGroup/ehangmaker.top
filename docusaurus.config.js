@@ -155,7 +155,7 @@ const config = {
             label: 'Bilibili',
           },
           {
-            href: 'https://www.douyin.com/user/self?modal_id=7119397084389854471',
+            href: 'https://www.douyin.com/user/MS4wLjABAAAABrH7ZtE0pXWHTqtiZmHsKnRWyOfeGAXA3D9M34MbkmY?vid=7119397084389854471',
             position: 'right',
             label: 'Tiktok',
           }
