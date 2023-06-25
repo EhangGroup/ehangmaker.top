@@ -139,26 +139,26 @@ const config = {
           },
 
 
-          // {
-          //   href: 'https://github.com/EhangGroup',
-          //   position: 'right',
-          //   label: 'GitHub',
-          // },
-          // {
-          //   href: 'https://blog.csdn.net/qq_44343584?spm=1000.2115.3001.5343',
-          //   position: 'right',
-          //   label: 'CSDN',
-          // },
-          // {
-          //   href: 'https://space.bilibili.com/314386857?spm_id_from=333.1007.0.0',
-          //   position: 'right',
-          //   label: 'Bilibili',
-          // },
-          // {
-          //   href: 'https://www.douyin.com/user/self?modal_id=7119397084389854471',
-          //   position: 'right',
-          //   label: 'Tiktok',
-          // }
+          {
+            href: 'https://github.com/EhangGroup',
+            position: 'right',
+            label: 'GitHub',
+          },
+          {
+            href: 'https://blog.csdn.net/qq_44343584?spm=1000.2115.3001.5343',
+            position: 'right',
+            label: 'CSDN',
+          },
+          {
+            href: 'https://space.bilibili.com/314386857?spm_id_from=333.999.0.0',
+            position: 'right',
+            label: 'Bilibili',
+          },
+          {
+            href: 'https://www.douyin.com/user/self?modal_id=7119397084389854471',
+            position: 'right',
+            label: 'Tiktok',
+          }
         ],
       },
       footer: {
