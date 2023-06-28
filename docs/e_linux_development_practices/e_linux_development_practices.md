@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 id: e_linux_development_practices-intro
-title: 介绍
+title: Linux开发章节介绍
 slug: /e_linux_development_practices-intro
 ---
 

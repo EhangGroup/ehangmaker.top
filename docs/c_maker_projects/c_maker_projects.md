@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 id: c_maker_projects-intro
-title: 介绍
+title: 创客项目作品展
 slug: /c_maker_projects-intro
 ---
 

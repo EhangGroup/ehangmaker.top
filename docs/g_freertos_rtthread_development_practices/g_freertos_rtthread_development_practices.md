@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 id: g_freertos_rtthread_development_practices-intro
-title: 介绍
+title: RTOS开发章节介绍
 slug: /g_freertos_rtthread_development_practices-intro
 ---
 

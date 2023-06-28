@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 id: h_circuit_design-intro
-title: 介绍
+title: 硬件设计作品展
 slug: /h_circuit_design-intro
 ---
 
